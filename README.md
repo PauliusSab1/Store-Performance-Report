@@ -26,9 +26,9 @@ Sales Revenue Analysis (2019-2020)
 
 
 1.	Revenue Growth and Peak Performance:
--   (Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic.)
-- 	Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period. 
--  Difference between first’s (January 2019) and last month’s revenue (December 2020) is +88.1K in sales which shows positive business growth. 
+-   [Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic]
+- 	Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period 
+-  Difference between first’s (January 2019) and last month’s revenue (December 2020) is +88.1K in sales which shows positive business growth 
 
 2.	Quarterly insights & Seasonal Trends 
 - Q4 of each year typically shows strong performance, likely due to seasonal shopping trends and marketing efforts.
