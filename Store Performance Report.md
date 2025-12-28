@@ -5,7 +5,7 @@
 
 ## <p align= 'center'> Client Background
 
-OfficeSupplies is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic. 
+<OfficeSupplies is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic. 
 
 OfficeSupplies book of business is approaching **800** unique customers and possesses over 5900 transactions, generating sales revenue exceeding $1.6 million. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 vs 2020.  
 
