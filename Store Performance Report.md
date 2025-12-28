@@ -41,7 +41,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 - Reassess business strategy for 2021, focusing on pricing, promotions, and customer engagement to regain momentum at the start of the Q1.
 
 
-
+<br>
 
 ## <p align= 'center'> Dataset Structure and ERD (Entity relationship diagram)
 
@@ -51,7 +51,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 
 
-
+<br>
 
 
 ## <p align= 'center'> Insights Deep-Dive
@@ -100,7 +100,7 @@ o	Total orders increased by 28% from 2019 to 2020.
 o	A high number of orders doesn’t necessarily result in a high amount of sales revenue. September 2020 had record breaking 385 sales, but sales revenue did not match Q4 2020 heights. 
 o	High AOV can lead to high sales revenue even when number of orders is average (for example, August 2020). It indicates effective upselling and increased customer loyalty.  
 
- 
+ <br>
 
 
 ## <p align= 'center'> Product Performance
@@ -132,7 +132,7 @@ o	Binders (46), Paper (35) and Furnishings (32) are the items that customers ret
 o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indicating a high quality of products and high customer satisfaction with an item. 
 
 
-
+<br>
 
 
 ## <p align= 'center'> Regional Results
@@ -149,6 +149,8 @@ o	 All four regions improved their sales revenue significantly from 2019 to 2020
 o	In 2019, West region generated the most profit from sales (+24K), while South region generated the least amount of profit from all regions with 18K.
 o	In 2020, there was a big shift in profit for all four regions. West region increased their profit margin by 83%, while East region improved by 65%.  
 o	 Central and South regions had a difficult year profit wise, and their profit margins decreased from 2019 to 2020 by 60% and 50% respectively.
+
+<br>
 
 ### <p align= 'center'> Recommendations
 
