@@ -62,7 +62,7 @@ Dataset Structure and ERD (Entity relationship diagram)
 
 The database structure as seen below consists of four tables: orders, order_status, location and customers with a total row count of 5901 records. 
 
- <img width="1053" height="688" alt="image" src="https://github.com/user-attachments/assets/18a09943-0822-48ef-a7a4-5539c3608e91" />
+ <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/18a09943-0822-48ef-a7a4-5539c3608e91" />
 
 
 
@@ -71,7 +71,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 ### Insights Deep-Dive
 
-<img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
 
  
 Sales Revenue
@@ -88,7 +88,7 @@ o	Sales revenue lows in February 2019 and April 2020 suggests customer retention
 
 
 
-<img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 
 
@@ -104,7 +104,7 @@ further.
 
 
 
-<img width="975" height="492" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
 
 
 
@@ -121,7 +121,7 @@ o	High AOV can lead to high sales revenue even when number of orders is average 
 
 ### Product Performance
 
-<img width="975" height="621" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
 
 
  
@@ -140,7 +140,7 @@ o	Other items that generate loss are supplies (-1.6K) and bookcases (-343).
 
 
 
-<img width="939" height="656" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
 
 
  
@@ -154,7 +154,7 @@ o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indi
 
 ### Regional Results
  
-<img width="741" height="682" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
 
 o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
 o	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
