@@ -20,10 +20,7 @@ Store performance Key Metrics:
 
 
 
-
-
-
-### <p align= 'center'> Executive Summary
+## <p align= 'center'> Executive Summary
 
 ### <p align= 'center'> Sales Revenue Analysis (2019-2020)
 
@@ -47,7 +44,7 @@ Store performance Key Metrics:
 
 
 
-### <p align= 'center'> Dataset Structure and ERD (Entity relationship diagram)
+## <p align= 'center'> Dataset Structure and ERD (Entity relationship diagram)
 
 The database structure as seen below consists of four tables: orders, order_status, location and customers with a total row count of 5901 records. 
 
@@ -58,7 +55,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 
 
-### <p align= 'center'> Insights Deep-Dive
+## <p align= 'center'> Insights Deep-Dive
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
 
@@ -85,6 +82,7 @@ o	Sales revenue lows in February 2019 and April 2020 suggests customer retention
 
  
 Average Order Value (AOV) and Order Count
+
 1.	Sharp AOV Surge in 2020 
 o	2020 saw the highest AOV growth from $224 (Dec 2019) to $390 (Dec 2020) which is 74% increase. This aligns with pandemic – driven eCommerce boom. 
 o	AOV growth indicates growing business and reflects higher customer satisfaction and loyalty. 
@@ -106,7 +104,7 @@ o	High AOV can lead to high sales revenue even when number of orders is average 
  
 
 
-### <p align= 'center'> Product Performance
+## <p align= 'center'> Product Performance
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
 
@@ -138,7 +136,7 @@ o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indi
 
 
 
-### <p align= 'center'> Regional Results
+## <p align= 'center'> Regional Results
  
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
 
