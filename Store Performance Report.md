@@ -4,13 +4,13 @@
 <br>
 
 ## <p align= 'center'> Client Background
-
+<br>
 OfficeSupplies is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic.
 
 OfficeSupplies book of business is approaching **800** unique customers and possesses over 5900 transactions, generating sales revenue exceeding $1.6 million. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 vs 2020.  
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance store’s commercial performance. The key insights and recommendations focus on the following areas:
-
+<br>
 ### Store performance Key Metrics:
 **- Sales trends – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).**
 **- Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions.**
@@ -20,12 +20,12 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 
 ## <p align= 'center'> Executive Summary
-
+<br>
 ### <p align= 'center'> Sales Revenue Analysis (2019-2020)
 
  <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
 
-
+<br>
 **1.	Revenue Growth and Peak Performance:**
 - [Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic]
 - 	Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period 
@@ -57,7 +57,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 ## <p align= 'center'> Insights Deep-Dive
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
-
+<br>
  
 ## <p align= 'center'> Sales Revenue
 1.	Minimum and Maximum Sales revenue 
@@ -71,14 +71,14 @@ o	February and April are declining months for both 2019 and 2020 when it comes t
 o	Q1 2020 finished strong (89K in March) but decreased significantly to 50.8K in April. This represents a sharp decline in sales revenue of 42.9%.  
 o	Sales revenue lows in February 2019 and April 2020 suggests customer retention, pricing, or product – market fit issues. OfficeSupplies company may need to re-strategize through marketing, promotions, or change in pricing.  
 
-
+<br>
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 
 
 
-
+<br>
  
 Average Order Value (AOV) and Order Count
 
@@ -88,11 +88,11 @@ o	AOV growth indicates growing business and reflects higher customer satisfactio
 o	From March 2019 to September 2019 there was a constant decline in AOV (from $257 to $177). This decline might indicate a potential customer behavior shift or economic factors change and should be investigated 
 further. 
 
-
+<br>
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
 
-
+<br>
 
 2.	Order Count
 o	Order counts closely following sales revenue, for example, minimum value of number of orders (Feb 2019, 126) is correlated with minimum value of sales revenue 25.5K for the same month. 
@@ -104,9 +104,9 @@ o	High AOV can lead to high sales revenue even when number of orders is average 
 
 
 ## <p align= 'center'> Product Performance
-
+<br>
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
-
+<br>
 
 <p align= 'center'> Sales Heatmap
 o	Phones had the most consistent sales for two consecutive years totaling 196.5K and it’s the highest revenue generating product overall. 
@@ -114,7 +114,7 @@ o	The second and third best performing products in terms of sales are Chairs (18
 o	Binders made the biggest improvement in sales year wise. From 2019 to 2020 there was a huge shift in demand for binders (+314% in sales revenue).
 o	Fasteners (15.2K total), Envelopes (16.5K) and Labels (19.3K) had a low number of sales compared to other products, although their demand increased from 2019 to 2020. 
 
-
+<br>
 <p align= 'center'> Profit Heatmap
 o	Copiers were the most profitable items by a big margin with total profit reaching +42.7K over two years.
 o	Accessories (+25.3K total), Phones (+22.3K total) and Paper (+21K total) also generated high profit margins from sales. 
@@ -125,7 +125,7 @@ o	Other items that generate loss are supplies (-1.6K) and bookcases (-343).
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
 
-
+<br>
  
 Returns by each Sub-Category
 o	Binders (46), Paper (35) and Furnishings (32) are the items that customers returned the most. These items require more attention because it might be an indicator of poor quality/unreliable products and an urgent need for quality control. 
@@ -136,7 +136,7 @@ o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indi
 
 
 ## <p align= 'center'> Regional Results
- 
+ <br>
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
 
 o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
@@ -144,7 +144,7 @@ o	In 2020, sales distribution across all four regions remained similar. West reg
 o	 All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
 
  <img width="811" height="802" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
-
+<br>
 
 o	In 2019, West region generated the most profit from sales (+24K), while South region generated the least amount of profit from all regions with 18K.
 o	In 2020, there was a big shift in profit for all four regions. West region increased their profit margin by 83%, while East region improved by 65%.  
@@ -153,16 +153,16 @@ o	 Central and South regions had a difficult year profit wise, and their profit 
 <br>
 
 ### <p align= 'center'> Recommendations
-
+<br>
 Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis.
-
+<br>
 <p align= 'center'> Sales
 - Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
 o	In Q2 2020 Sales declined by -27.3% compared to Q1.
 o	While Average Sales Growth for each quarter is +15.1%
 - Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.
 o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
-
+<br>
 <p align= 'center'> Products
 - Optimize inventory for high – performing products year – round to increase yearly profit margins
 o	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
@@ -171,7 +171,7 @@ o	Accessories, Phones and Paper also generated high profit from sales with +68.6
 o	Tables and Supplies together generated 156K in Sales Revenue over two years but profit-wise, resulted in a loss of 12.6K.
 - Develop a quality assurance and quality control plan for the most returned items. 
 o	Binders (46), Paper (35), Furnishings (32) and Phones (29) were the most returned items resulting in 49% of total returns. 
-
+<br>
 <p align= 'center'> Regions 
 - Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
 o	33% of all product sales happened in West region.
