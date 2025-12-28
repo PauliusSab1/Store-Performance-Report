@@ -11,9 +11,9 @@ OfficeSupplies book of business is approaching 800 unique customers and possesse
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance store’s commercial performance. The key insights and recommendations focus on the following areas:
 
 Store performance Key Metrics:
-•	Sales trends – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV)
-•	Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions. 
-•	Regional results – Evaluating regional demand and product performance within regions to identify areas for improvement. 
+- Sales trends – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV)
+- Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions. 
+-	Regional results – Evaluating regional demand and product performance within regions to identify areas for improvement. 
 
 
 
@@ -172,24 +172,24 @@ o	 Central and South regions had a difficult year profit wise, and their profit 
 Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis.
 
 Sales
-•	Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
+- Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
 o	In Q2 2020 Sales declined by -27.3% compared to Q1.
 o	While Average Sales Growth for each quarter is +15.1%
-•	Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.
+- Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.
 o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
 Products
-•	Optimize inventory for high – performing products year – round to increase yearly profit margins
+- Optimize inventory for high – performing products year – round to increase yearly profit margins
 o	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
 o	Accessories, Phones and Paper also generated high profit from sales with +68.6K combined profit over two years. 
-•	Deprioritize inventory for low – performing products.
+- Deprioritize inventory for low – performing products.
 o	Tables and Supplies together generated 156K in Sales Revenue over two years but profit-wise, resulted in a loss of 12.6K.
-•	Develop a quality assurance and quality control plan for the most returned items. 
+- Develop a quality assurance and quality control plan for the most returned items. 
 o	Binders (46), Paper (35), Furnishings (32) and Phones (29) were the most returned items resulting in 49% of total returns. 
 
 Regions 
-•	Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
+- Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
 o	33% of all product sales happened in West region.
 o	38% of all profit comes from the West region.
-•	Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit. 
+- Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit. 
 o	South region generated only 16% of all sales revenue and only 15% of all profit from all regions leaving a potential room for business development and growth. 
