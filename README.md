@@ -50,7 +50,7 @@ o	Reassess business strategy for 2021, focusing on pricing, promotions, and cust
 
 
 
-Dataset Structure and ERD (Entity relationship diagram)
+### Dataset Structure and ERD (Entity relationship diagram)
 
 The database structure as seen below consists of four tables: orders, order_status, location and customers with a total row count of 5901 records. 
 
@@ -66,7 +66,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
 
  
-Sales Revenue
+## Sales Revenue
 1.	Minimum and Maximum Sales revenue 
 o	Minimum value of Sales Revenue was reached during February 2019 (25.5K) which represents sales revenue slowdown most likely caused by the end of a holiday season. 
 o	Maximum value of Sales revenue was reached in December 2020 (126.2k), which is more than double compared to sales revenue a year ago. 
