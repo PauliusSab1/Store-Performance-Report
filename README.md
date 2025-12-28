@@ -107,6 +107,7 @@ o	High AOV can lead to high sales revenue even when number of orders is average 
 
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
 
+<img width="800" height="400" alt="Screenshot 2025-12-23 124528" src="https://github.com/user-attachments/assets/70dc4612-0efc-406a-b07d-f412efb20368" />
 
  
 Sales Heatmap
