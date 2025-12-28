@@ -1,23 +1,27 @@
 <p align= 'center'> <img width="200" height="120" alt="image" src="https://github.com/user-attachments/assets/353458ce-0ac8-4daa-9aa9-112ab5cc13d0" />
 
 # <p align= 'center'> Store Performance Report
+
 <br>
 
 ## <p align= 'center'> Client Background
+
 <br>
+
 OfficeSupplies is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic.
-<br>
+
 OfficeSupplies book of business is approaching **800** unique customers and possesses over 5900 transactions, generating sales revenue exceeding $1.6 million. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 vs 2020.  
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance store’s commercial performance. The key insights and recommendations focus on the following areas:
+
 <br>
+
 ### Store performance Key Metrics:
 **- Sales trends – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).**
 **- Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions.**
 **-	Regional results – Evaluating regional demand and product performance within regions to identify areas for improvement.** 
 
 <br>
-
 
 ## <p align= 'center'> Executive Summary
 <br>
@@ -26,6 +30,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
  <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
 
 <br>
+
 **1.	Revenue Growth and Peak Performance:**
 - [Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic]
 - 	Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period 
