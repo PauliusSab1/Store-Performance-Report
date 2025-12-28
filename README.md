@@ -62,13 +62,17 @@ Dataset Structure and ERD (Entity relationship diagram)
 
 The database structure as seen below consists of four tables: orders, order_status, location and customers with a total row count of 5901 records. 
 
- 
+ <img width="1053" height="688" alt="image" src="https://github.com/user-attachments/assets/18a09943-0822-48ef-a7a4-5539c3608e91" />
+
 
 
 
 
 
 ### Insights Deep-Dive
+
+<img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
+
  
 Sales Revenue
 1.	Minimum and Maximum Sales revenue 
@@ -84,6 +88,7 @@ o	Sales revenue lows in February 2019 and April 2020 suggests customer retention
 
 
 
+<img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 
 
@@ -98,6 +103,8 @@ o	From March 2019 to September 2019 there was a constant decline in AOV (from $2
 further. 
 
 
+
+<img width="975" height="492" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
 
 
 
@@ -114,12 +121,16 @@ o	High AOV can lead to high sales revenue even when number of orders is average 
 
 ### Product Performance
 
+<img width="975" height="621" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
+
+
  
 Sales Heatmap
 o	Phones had the most consistent sales for two consecutive years totaling 196.5K and it’s the highest revenue generating product overall. 
 o	The second and third best performing products in terms of sales are Chairs (181.9K total) and Binders (174.9K total). 
 o	Binders made the biggest improvement in sales year wise. From 2019 to 2020 there was a huge shift in demand for binders (+314% in sales revenue).
 o	Fasteners (15.2K total), Envelopes (16.5K) and Labels (19.3K) had a low number of sales compared to other products, although their demand increased from 2019 to 2020. 
+
 
 Profit Heatmap
 o	Copiers were the most profitable items by a big margin with total profit reaching +42.7K over two years.
@@ -129,10 +140,7 @@ o	Other items that generate loss are supplies (-1.6K) and bookcases (-343).
 
 
 
-
-
-
-
+<img width="939" height="656" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
 
 
  
@@ -146,11 +154,14 @@ o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indi
 
 ### Regional Results
  
+<img width="741" height="682" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
 
 o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
 o	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
 o	 All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
- 
+
+ <img width="811" height="802" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
+
 
 o	In 2019, West region generated the most profit from sales (+24K), while South region generated the least amount of profit from all regions with 18K.
 o	In 2020, there was a big shift in profit for all four regions. West region increased their profit margin by 83%, while East region improved by 65%.  
