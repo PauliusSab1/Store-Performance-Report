@@ -2,7 +2,7 @@
 
 # <p align= 'center'> Store Performance Report
 
-### Client Background
+### <p align= 'center'> Client Background
 
 OfficeSupplies is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic. 
 
