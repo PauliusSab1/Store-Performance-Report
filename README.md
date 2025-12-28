@@ -27,7 +27,7 @@ Store performance Key Metrics:
 
 
 
-Executive Summary
+### Executive Summary
 
 Sales Revenue Analysis (2019-2020)
 
@@ -67,7 +67,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 
 
-Insights Deep-Dive
+### Insights Deep-Dive
  
 Sales Revenue
 1.	Minimum and Maximum Sales revenue 
@@ -111,7 +111,7 @@ o	High AOV can lead to high sales revenue even when number of orders is average 
 
 
 
-Product Performance
+### Product Performance
 
  
 Sales Heatmap
@@ -143,7 +143,7 @@ o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indi
 
 
 
-Regional Results
+### Regional Results
  
 
 o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
@@ -155,7 +155,7 @@ o	In 2019, West region generated the most profit from sales (+24K), while South 
 o	In 2020, there was a big shift in profit for all four regions. West region increased their profit margin by 83%, while East region improved by 65%.  
 o	 Central and South regions had a difficult year profit wise, and their profit margins decreased from 2019 to 2020 by 60% and 50% respectively.
 
-Recommendations
+### Recommendations
 
 Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis.
 
