@@ -141,8 +141,12 @@ o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indi
 
 
 ## <p align= 'center'> Regional Results
+
  <br>
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
+
+<br>
 
 o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
 o	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
