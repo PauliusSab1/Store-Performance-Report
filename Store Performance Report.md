@@ -16,8 +16,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 **- Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions.**
 **-	Regional results – Evaluating regional demand and product performance within regions to identify areas for improvement.** 
 
-
-
+<br>
 
 
 ## <p align= 'center'> Executive Summary
