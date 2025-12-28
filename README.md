@@ -31,7 +31,7 @@ Store performance Key Metrics:
 
 Sales Revenue Analysis (2019-2020)
 
- <img width="1037" height="580" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
+ <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
 
 
 1.	Revenue Growth and Peak Performance:
