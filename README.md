@@ -31,7 +31,8 @@ Store performance Key Metrics:
 
 Sales Revenue Analysis (2019-2020)
 
- 
+ <img width="1037" height="580" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
+
 
 1.	Revenue Growth and Peak Performance:
 o	Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic. 
