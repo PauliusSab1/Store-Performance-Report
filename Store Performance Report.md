@@ -11,7 +11,7 @@ OfficeSupplies book of business is approaching **800** unique customers and poss
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance store’s commercial performance. The key insights and recommendations focus on the following areas:
 
-Store performance Key Metrics:
+### Store performance Key Metrics:
 - Sales trends – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV)
 - Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions. 
 -	Regional results – Evaluating regional demand and product performance within regions to identify areas for improvement. 
