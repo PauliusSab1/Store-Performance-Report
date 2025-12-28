@@ -18,6 +18,10 @@ Store performance Key Metrics:
 
 
 
+
+
+
+
 ### <p align= 'center'> Executive Summary
 
 ### <p align= 'center'> Sales Revenue Analysis (2019-2020)
