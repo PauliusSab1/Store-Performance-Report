@@ -1,4 +1,4 @@
-<img width="298" height="169" alt="image" src="https://github.com/user-attachments/assets/353458ce-0ac8-4daa-9aa9-112ab5cc13d0" />
+<img width="200" height="120" alt="image" src="https://github.com/user-attachments/assets/353458ce-0ac8-4daa-9aa9-112ab5cc13d0" />
 
 # Store-Performance-Report
 
