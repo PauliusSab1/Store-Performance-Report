@@ -91,14 +91,14 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-### <p align= 'center'> Average Order Value (AOV) 
+### <p align= 'center'> Average Order Value (AOV) and Order Count 
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 
 <br>
  
-1.	Sharp AOV Surge in 2020 
+**Sharp AOV Surge in 2020** 
 -	2020 saw the highest AOV growth from $224 (Dec 2019) to $390 (Dec 2020) which is 74% increase. This aligns with pandemic – driven eCommerce boom. 
 -	AOV growth indicates growing business and reflects higher customer satisfaction and loyalty. 
 -	From March 2019 to September 2019 there was a constant decline in AOV (from $257 to $177). This decline might indicate a potential customer behavior shift or economic factors change and should be investigated 
@@ -110,7 +110,7 @@ further.
 
 <br>
 
-2.	Order Count
+**Order Count**
 -	Order counts closely following sales revenue, for example, minimum value of number of orders (Feb 2019, 126) is correlated with minimum value of sales revenue 25.5K for the same month. 
 -	Total orders increased by 28% from 2019 to 2020. 
 -	A high number of orders doesn’t necessarily result in a high amount of sales revenue. September 2020 had record breaking 385 sales, but sales revenue did not match Q4 2020 heights. 
@@ -182,7 +182,7 @@ o	 All four regions improved their sales revenue significantly from 2019 to 2020
 
 <br>
 
-Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis.
+**Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis.**
 
 <br>
 
@@ -208,7 +208,7 @@ o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
  **Regions** 
 - Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
-  [33% of all product sales happened in West region.]
+- 33% of all product sales happened in West region.
 -	38% of all profit comes from the West region.
 - Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit. 
 -	South region generated only 16% of all sales revenue and only 15% of all profit from all regions leaving a potential room for business development and growth. 
