@@ -169,7 +169,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
  <br>
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
 
 <br>
 
