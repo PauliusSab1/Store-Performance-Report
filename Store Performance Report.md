@@ -121,7 +121,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 **Order Count**
 -	Order counts closely following sales revenue, for example, minimum value of number of orders (Feb 2019, 126) is correlated with minimum value of sales revenue 25.5K for the same month. 
 -	Total orders **increased by 28% from 2019 to 2020**. 
--	A high number of orders doesn’t necessarily result in a high amount of sales revenue. September 2020 had record breaking 385 sales, but sales revenue did not match Q4 2020 heights. 
+-	A high number of orders doesn’t necessarily result in a high amount of sales revenue. September 2020 had a record breaking **385 sale orders**, but sales revenue did not match Q4 2020 heights. 
 -	High AOV can lead to high sales revenue even when number of orders is average (for example, August 2020). It indicates effective upselling and increased customer loyalty.  
 
  <br>
