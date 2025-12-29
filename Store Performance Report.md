@@ -34,6 +34,8 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <br>
 
+<br>
+
 **1.	Revenue Growth and Peak Performance:**
 - Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic
 - Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period 
