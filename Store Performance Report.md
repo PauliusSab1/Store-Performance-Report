@@ -204,28 +204,28 @@ The database structure as seen below consists of four tables: orders, order_stat
 <br>
 
 **Sales**
-- Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
+- **Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods.** 
   -	In Q2 2020 Sales declined by -27.3% compared to Q1.
   -	While Average Sales Growth for each quarter was +15.1%
-- Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.
--  In 2020 April, AOV decreased to 222, which is 14.6% below the average.
+- **Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.**
+  -  In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
 <br>
 
 **Products**
-- Optimize inventory for high – performing products year – round to increase yearly profit margins
+- **Optimize inventory for high – performing products year – round to increase yearly profit margins**
   -	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
   -	Accessories, Phones and Paper also generated high profit from sales with +68.6K combined profit over two years. 
-- Deprioritize inventory for low – performing products.
+- **Deprioritize inventory for low – performing products.**
   -	Tables and Supplies together generated 156K in Sales Revenue over two years but profit-wise, resulted in a loss of 12.6K.
-- Develop a quality assurance and quality control plan for the most returned items. 
+- **Develop a quality assurance and quality control plan for the most returned items.** 
   -	Binders (46), Paper (35), Furnishings (32) and Phones (29) were the most returned items resulting in 49% of total returns. 
 
  <br>
 
  **Regions** 
-- Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
+- **Maximize market share in West region, as this region dominates sales across all OfficeSupplies products.** 
   - 33% of all product sales happened in West region.
   -	38% of all profit comes from the West region.
-- Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit. 
+- **Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit.** 
   -	South region generated only 16% of all sales revenue and only 15% of all profit from all regions leaving a potential room for business development and growth. 
