@@ -100,7 +100,9 @@ The database structure as seen below consists of four tables: orders, order_stat
 <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 <br>
- 
+
+<br>
+
 **Sharp AOV Surge in 2020** 
 -	2020 saw the highest AOV growth from **$224** (Dec 2019) to **$390** (Dec 2020) which is **74% increase**. This aligns with pandemic – driven eCommerce boom. 
 -	AOV growth indicates growing business and reflects higher customer satisfaction and loyalty. 
@@ -108,7 +110,11 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
+<br>
+
 <img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
+
+<br>
 
 <br>
 
