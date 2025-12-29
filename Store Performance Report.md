@@ -9,7 +9,7 @@
 
 **OfficeSupplies** is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic.
 
-**OfficeSupplies** book of business is approaching **800** unique customers and possesses over **5900** transactions, **generating sales revenue exceeding $1.6 million**. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 and 2020.  
+**OfficeSupplies** book of business is approaching **800** unique customers and possesses over **5900** transactions, generating sales revenue exceeding **$1.6 million**. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 and 2020.  
 
 Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance **OfficeSupplies** commercial performance. The key insights and recommendations focus on the following areas:
 
@@ -79,15 +79,15 @@ The database structure as seen below consists of four tables: orders, order_stat
 <br>
 
 1.	**Minimum and Maximum Sales Revenue** 
--	Minimum value of Sales Revenue was reached during February 2019 **(25.5K)** which represents sales revenue slowdown most likely caused by the end of a holiday season. 
--	Maximum value of Sales revenue was reached in December 2020 **(126.2k)**, which is more than double compared to sales revenue a year ago. 
+-	Minimum value of Sales Revenue was reached during **February 2019 (25.5K)** which represents sales revenue slowdown most likely caused by the end of a holiday season. 
+-	Maximum value of Sales revenue was reached in **December 2020 (126.2k)**, which is more than double compared to sales revenue a year ago. 
 
 2.	**Sharp Revenue Growth in Q4 – A Major Sales Increase**
 -	Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). 
--	**In November 2019**, company was able to reach **66k** sales for the first time during that year and in **December 2020**, company recorded **126k sales**. The pandemic led to a significant boost in eCommerce sales, with Q4 seeing a rapid increase in sales revenue for both years.
+-	**In November 2019**, company was able to reach **66k sales** for the first time during that year and in **December 2020**, company recorded **126k sales**. The pandemic led to a significant boost in eCommerce sales, with Q4 seeing a rapid increase in sales revenue for both years.
 
 3.	**Declining growth months – February and April – indication of a weak consumer demand**
--	February and April are declining months for both 2019 and 2020 when it comes to sales revenue growth. 
+-	February and April were declining months for both 2019 and 2020 when it comes to sales revenue growth. 
 -	Q1 2020 finished strong (**89K in March**) but decreased significantly to **50.8K** in April. This represents a sharp decline in sales revenue of **42.9%**.  
 -	Sales revenue lows in February 2019 and April 2020 suggests customer retention, pricing, or product – market fit issues. OfficeSupplies company may need to re-strategize through marketing, promotions, or change in pricing.  
 
@@ -97,24 +97,24 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 <br>
  
 **Sharp AOV Surge in 2020** 
 -	2020 saw the highest AOV growth from **$224** (Dec 2019) to **$390** (Dec 2020) which is **74% increase**. This aligns with pandemic – driven eCommerce boom. 
 -	AOV growth indicates growing business and reflects higher customer satisfaction and loyalty. 
--	From March 2019 to September 2019 there was a constant decline in AOV (**from $257 to $177**). This decline might indicate a potential customer behavior shift or economic factors change and should be investigated further. 
+-	From March 2019 to September 2019 there was a **constant decline in AOV (from $257 to $177**). This decline might indicate a potential customer behavior shift or economic factors change and should be investigated further. 
 
 <br>
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
 
 <br>
 
 **Order Count**
 -	Order counts closely following sales revenue, for example, minimum value of number of orders (Feb 2019, 126) is correlated with minimum value of sales revenue 25.5K for the same month. 
--	Total orders increased by 28% from 2019 to 2020. 
+-	Total orders **increased by 28% from 2019 to 2020**. 
 -	A high number of orders doesn’t necessarily result in a high amount of sales revenue. September 2020 had record breaking 385 sales, but sales revenue did not match Q4 2020 heights. 
 -	High AOV can lead to high sales revenue even when number of orders is average (for example, August 2020). It indicates effective upselling and increased customer loyalty.  
 
@@ -129,17 +129,17 @@ The database structure as seen below consists of four tables: orders, order_stat
 <br>
 
 ### Sales Heatmap
--	Phones had the most consistent sales for two consecutive years totaling 196.5K and it’s the highest revenue generating product overall. 
--	The second and third best performing products in terms of sales are Chairs (181.9K total) and Binders (174.9K total). 
--	Binders made the biggest improvement in sales year wise. From 2019 to 2020 there was a huge shift in demand for binders (+314% in sales revenue).
+-	Phones had the most consistent sales for two consecutive years **totaling 196.5K** and it’s the highest revenue generating product overall. 
+-	The second and third best performing products in terms of sales are Chairs **(181.9K total)** and Binders **(174.9K total)**. 
+-	Binders made the biggest improvement in sales year wise. From 2019 to 2020 there was a huge shift in demand for binders **(+314% in sales revenue)**.
 -	Fasteners (15.2K total), Envelopes (16.5K) and Labels (19.3K) had a low number of sales compared to other products, although their demand increased from 2019 to 2020. 
 
 <br>
 
 ### Profit Heatmap
--	Copiers were the most profitable items by a big margin with total profit reaching +42.7K over two years.
+-	Copiers were the most profitable items by a big margin with total profit reaching **+42.7K over two years**.
 -	Accessories (+25.3K total), Phones (+22.3K total) and Paper (+21K total) also generated high profit margins from sales. 
--	The least profitable item – Tables. It generated a loss of -11K over two-years period and this item should be monitored closely. Company might want to replace tables with other items or remove them from the market to avoid future loss. 
+-	The least profitable item – Tables. It generated **a loss of -11K over two-years period** and this item should be monitored closely. Company might want to replace tables with other items or remove them from the market to avoid future loss. 
 -	Other items that generated loss are supplies (-1.6K) and bookcases (-343).  
 
 <br>
@@ -151,7 +151,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 <br>
  
 **Returns by each Sub-Category**
--	Binders (46), Paper (35) and Furnishings (32) are the items that customers returned the most. These items require more attention because it might be an indicator of poor quality/unreliable products and an urgent need for quality control. 
+-	Binders **(46)**, Paper **(35)** and Furnishings **(32)** are the items that customers returned the most. These items require more attention because it might be an indicator of poor quality/unreliable products and an urgent need for quality control. 
 -	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indicating a high quality of products and high customer satisfaction with an item. 
 
 <br>
@@ -169,9 +169,9 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-- In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
--	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
--	All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
+- In 2019, West region generated the most **sales revenue (185K)**, while South region generated the least sales revenue from all four regions with **89K**.
+-	In 2020, sales distribution across all four regions remained similar. West region lead sales department with **337K sales revenue** while South region generated the least sales revenue with **164K**. 
+-	All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by **84%**, West region by **82%**, Central region by **81%** and East region by **64%**.
 
 <br>
 
@@ -179,9 +179,9 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
--	In 2019, West region generated the most profit from sales (+24K), while South region generated the least amount of profit from all regions with 18K.
--	In 2020, there was a big shift in profit for all four regions. West region increased their profit margin by 83%, while East region improved by 65%.  
--	Central and South regions had a difficult year profit wise, and their profit margins decreased from 2019 to 2020 by 60% and 50% respectively.
+-	In 2019, West region generated the most profit from sales **(+24K)**, while South region generated the least amount of profit from all regions with **18K**.
+-	In 2020, there was a big shift in profit for all four regions. West region increased their profit margin by **83%**, while East region increased by **65%**.  
+-	Central and South regions had a difficult year profit wise, and their profit margins decreased from 2019 to 2020 by **60%** and **50%** respectively.
 
 <br>
 
