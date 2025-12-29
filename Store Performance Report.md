@@ -71,9 +71,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-<br>
-
-### <p align= 'center'> Sales Revenue
+## <p align= 'center'> Sales Revenue
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
 
