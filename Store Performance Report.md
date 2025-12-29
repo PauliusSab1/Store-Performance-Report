@@ -213,7 +213,7 @@ o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
  **Regions** 
 - Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
-- 33% of all product sales happened in West region.
--	38% of all profit comes from the West region.
+  - Sub 33% of all product sales happened in West region.
+  -	Sub 38% of all profit comes from the West region.
 - Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit. 
 -	South region generated only 16% of all sales revenue and only 15% of all profit from all regions leaving a potential room for business development and growth. 
