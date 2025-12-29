@@ -167,9 +167,9 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
-o	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
-o	 All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
+- In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
+-	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
+-	All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
 
 <br>
 
@@ -193,27 +193,27 @@ o	 All four regions improved their sales revenue significantly from 2019 to 2020
 
 **Sales**
 - Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
--	In Q2 2020 Sales declined by -27.3% compared to Q1.
--	While Average Sales Growth for each quarter was +15.1%
+  -	In Q2 2020 Sales declined by -27.3% compared to Q1.
+  -	While Average Sales Growth for each quarter was +15.1%
 - Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.
-o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
+-  In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
 <br>
 
 **Products**
 - Optimize inventory for high – performing products year – round to increase yearly profit margins
--	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
--	Accessories, Phones and Paper also generated high profit from sales with +68.6K combined profit over two years. 
+  -	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
+  -	Accessories, Phones and Paper also generated high profit from sales with +68.6K combined profit over two years. 
 - Deprioritize inventory for low – performing products.
--	Tables and Supplies together generated 156K in Sales Revenue over two years but profit-wise, resulted in a loss of 12.6K.
+  -	Tables and Supplies together generated 156K in Sales Revenue over two years but profit-wise, resulted in a loss of 12.6K.
 - Develop a quality assurance and quality control plan for the most returned items. 
--	Binders (46), Paper (35), Furnishings (32) and Phones (29) were the most returned items resulting in 49% of total returns. 
+  -	Binders (46), Paper (35), Furnishings (32) and Phones (29) were the most returned items resulting in 49% of total returns. 
 
  <br>
 
  **Regions** 
 - Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
-  - Sub 33% of all product sales happened in West region.
-  -	Sub 38% of all profit comes from the West region.
+  - 33% of all product sales happened in West region.
+  -	38% of all profit comes from the West region.
 - Diversify the portfolio in the South market by potential expansion to Latin America by offering localized products, sales channels and market reach to increase sales revenue, purchase orders and potential profit. 
--	South region generated only 16% of all sales revenue and only 15% of all profit from all regions leaving a potential room for business development and growth. 
+  -	South region generated only 16% of all sales revenue and only 15% of all profit from all regions leaving a potential room for business development and growth. 
