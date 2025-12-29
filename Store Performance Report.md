@@ -144,7 +144,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 ## <p align= 'center'> Product Returns
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
 
 <br>
  
