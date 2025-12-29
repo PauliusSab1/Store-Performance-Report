@@ -16,9 +16,9 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 <br>
 
 ### Store performance Key Metrics:
-**- Sales trends – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV)**.
-**- Product performance – Analyzing different product lines, market impact, and product returns to inform strategic product decisions.**
-**-	Regional results – Evaluating regional demand and product performance within regions to identify areas for improvement.** 
+- **Sales trends** – Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).
+- **Product performance** – Analyzing different product lines, market impact, and product returns to inform strategic product decisions.
+-	**Regional results** – Evaluating regional demand and product performance within regions to identify areas for improvement.
 
 <br>
 
