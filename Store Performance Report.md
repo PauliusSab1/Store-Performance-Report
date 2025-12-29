@@ -28,7 +28,7 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <br>
 
- <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
+ <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
 
 <br>
 
