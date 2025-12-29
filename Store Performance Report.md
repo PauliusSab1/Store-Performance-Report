@@ -183,7 +183,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
- <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
+ <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
 
 <br>
 
