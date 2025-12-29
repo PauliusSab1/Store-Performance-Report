@@ -69,17 +69,16 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 ## <p align= 'center'> Insights Deep-Dive
 
-<br>
 
 ## <p align= 'center'> Sales Revenue
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
 
 <br>
  
 <br>
 
-1.	**Minimum and Maximum Sales revenue** 
+1.	**Minimum and Maximum Sales Revenue** 
 -	Minimum value of Sales Revenue was reached during February 2019 **(25.5K)** which represents sales revenue slowdown most likely caused by the end of a holiday season. 
 -	Maximum value of Sales revenue was reached in December 2020 **(126.2k)**, which is more than double compared to sales revenue a year ago. 
 
@@ -98,7 +97,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 <br>
  
@@ -109,7 +108,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
 
 <br>
 
