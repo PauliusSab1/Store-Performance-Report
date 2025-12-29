@@ -26,21 +26,23 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 ### <p align= 'center'> Sales Revenue Analysis (2019-2020)
 
+<br>
+
  <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/cdfd425d-9f96-40c6-bead-d6e35d8b325b" />
 
 <br>
 
 **1.	Revenue Growth and Peak Performance:**
-- [Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic]
-- 	Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period 
--  Difference between first’s (January 2019) and last month’s revenue (December 2020) is +88.1K in sales which shows positive business growth 
+- Q4 2020 was the strongest quarter, with sales consistently growing each month as a result of the COVID-19 pandemic
+- Q4 2020 saw the highest revenue month ($126.2K in December 2020), making it the best – performing period 
+- Difference between first (January 2019) and last months revenue (December 2020) is +88.1K in sales which shows positive business growth 
 
 **2.	Quarterly insights & Seasonal Trends:** 
 - Q4 of each year typically shows strong performance, likely due to seasonal shopping trends and marketing efforts.
 - Q1 of 2020 ended very well (89K in sales), but revenue quickly dropped to 50.8K signaling an overall weak performance in April. 
 
 **3.	Key Takeaways & Recommendations:**
-- {Investigate the causes of the Q2 2020 Decline (e.g., market changes, competition, internal factors, pricing.)
+- Investigate the causes of the Q2 2020 Decline (e.g., market changes, competition, internal factors, pricing).
 - Leverage high performance periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies. 
 - Reassess business strategy for 2021, focusing on pricing, promotions, and customer engagement to regain momentum at the start of the Q1.
 
