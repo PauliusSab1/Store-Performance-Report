@@ -127,24 +127,24 @@ The database structure as seen below consists of four tables: orders, order_stat
 <br>
 
 <p align= 'center'> Sales Heatmap
-o	Phones had the most consistent sales for two consecutive years totaling 196.5K and it’s the highest revenue generating product overall. 
-o	The second and third best performing products in terms of sales are Chairs (181.9K total) and Binders (174.9K total). 
-o	Binders made the biggest improvement in sales year wise. From 2019 to 2020 there was a huge shift in demand for binders (+314% in sales revenue).
-o	Fasteners (15.2K total), Envelopes (16.5K) and Labels (19.3K) had a low number of sales compared to other products, although their demand increased from 2019 to 2020. 
+-	Phones had the most consistent sales for two consecutive years totaling 196.5K and it’s the highest revenue generating product overall. 
+-	The second and third best performing products in terms of sales are Chairs (181.9K total) and Binders (174.9K total). 
+-	Binders made the biggest improvement in sales year wise. From 2019 to 2020 there was a huge shift in demand for binders (+314% in sales revenue).
+-	Fasteners (15.2K total), Envelopes (16.5K) and Labels (19.3K) had a low number of sales compared to other products, although their demand increased from 2019 to 2020. 
 
 <br>
 
 <p align= 'center'> Profit Heatmap
-o	Copiers were the most profitable items by a big margin with total profit reaching +42.7K over two years.
-o	Accessories (+25.3K total), Phones (+22.3K total) and Paper (+21K total) also generated high profit margins from sales. 
-o	The least profitable item – Tables. It generated a loss of -11K over two-years period and this item should be monitored closely. Company might want to replace tables with other items or remove them from the market to avoid future loss. 
-o	Other items that generate loss are supplies (-1.6K) and bookcases (-343).  
+-	Copiers were the most profitable items by a big margin with total profit reaching +42.7K over two years.
+-	Accessories (+25.3K total), Phones (+22.3K total) and Paper (+21K total) also generated high profit margins from sales. 
+-	The least profitable item – Tables. It generated a loss of -11K over two-years period and this item should be monitored closely. Company might want to replace tables with other items or remove them from the market to avoid future loss. 
+-	Other items that generate loss are supplies (-1.6K) and bookcases (-343).  
 
 <br>
 
 ## <p align= 'center'> Product Returns
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
 
 <br>
  
