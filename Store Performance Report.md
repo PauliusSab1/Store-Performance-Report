@@ -59,12 +59,10 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 The database structure as seen below consists of four tables: orders, order_status, location and customers with a total row count of 5901 records. 
 
- <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/18a09943-0822-48ef-a7a4-5539c3608e91" />
-
+ <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/18a09943-0822-48ef-a7a4-5539c3608e91" />
 
 
 <br>
-
 
 ## <p align= 'center'> Insights Deep-Dive
 
