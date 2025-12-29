@@ -186,7 +186,7 @@ Based on the uncovered insights, here are actionable items that OfficeSupplies c
 
 <br>
 
-<p align= 'center'> **Sales**
+**Sales**
 - Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
 -	In Q2 2020 Sales declined by -27.3% compared to Q1.
 -	While Average Sales Growth for each quarter was +15.1%
@@ -195,7 +195,7 @@ o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
 <br>
 
-<p align= 'center'> **Products**
+**Products**
 - Optimize inventory for high – performing products year – round to increase yearly profit margins
 -	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
 -	Accessories, Phones and Paper also generated high profit from sales with +68.6K combined profit over two years. 
@@ -206,7 +206,7 @@ o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
  <br>
 
-<p align= 'center'> Regions 
+ **Regions** 
 - Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
 -	33% of all product sales happened in West region.
 -	38% of all profit comes from the West region.
