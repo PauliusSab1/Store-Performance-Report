@@ -191,7 +191,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-### <p align= 'center'> Recommendations
+## <p align= 'center'> Recommendations
 
 <br>
 
