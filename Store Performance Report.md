@@ -66,37 +66,38 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 ## <p align= 'center'> Insights Deep-Dive
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
+<br>
+
+### <p align= 'center'> Sales Revenue
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/ca2080f5-b49b-4e70-acc5-6f356abbaa56" />
 
 <br>
  
-## <p align= 'center'> Sales Revenue
-
 <br>
 
-1.	Minimum and Maximum Sales revenue 
--	Minimum value of Sales Revenue was reached during February 2019 (25.5K) which represents sales revenue slowdown most likely caused by the end of a holiday season. 
--	Maximum value of Sales revenue was reached in December 2020 (126.2k), which is more than double compared to sales revenue a year ago. 
+1.	**Minimum and Maximum Sales revenue** 
+-	Minimum value of Sales Revenue was reached during February 2019 **(25.5K)** which represents sales revenue slowdown most likely caused by the end of a holiday season. 
+-	Maximum value of Sales revenue was reached in December 2020 **(126.2k)**, which is more than double compared to sales revenue a year ago. 
 
-2.	Sharp Revenue Growth in Q4 – A Major Sales Increase
+2.	**Sharp Revenue Growth in Q4 – A Major Sales Increase**
 -	Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). 
--	In November 2019, company was able to reach 66k sales for the first time during that year and in December 2020, company recorded 126k sales. The pandemic led to a significant boost in eCommerce sales, with Q4 seeing a rapid increase in sales revenue for both years.
+-	**In November 2019**, company was able to reach **66k** sales for the first time during that year and in **December 2020**, company recorded **126k sales**. The pandemic led to a significant boost in eCommerce sales, with Q4 seeing a rapid increase in sales revenue for both years.
 
-3.	Declining growth months – February and April – indication of a weak consumer demand
+3.	**Declining growth months – February and April – indication of a weak consumer demand**
 -	February and April are declining months for both 2019 and 2020 when it comes to sales revenue growth. 
--	Q1 2020 finished strong (89K in March) but decreased significantly to 50.8K in April. This represents a sharp decline in sales revenue of 42.9%.  
+-	Q1 2020 finished strong (**89K in March**) but decreased significantly to **50.8K** in April. This represents a sharp decline in sales revenue of **42.9%**.  
 -	Sales revenue lows in February 2019 and April 2020 suggests customer retention, pricing, or product – market fit issues. OfficeSupplies company may need to re-strategize through marketing, promotions, or change in pricing.  
 
 <br>
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
+### <p align= 'center'> Average Order Value (AOV) 
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 
 <br>
  
-Average Order Value (AOV) and Order Count
-
 1.	Sharp AOV Surge in 2020 
 -	2020 saw the highest AOV growth from $224 (Dec 2019) to $390 (Dec 2020) which is 74% increase. This aligns with pandemic – driven eCommerce boom. 
 -	AOV growth indicates growing business and reflects higher customer satisfaction and loyalty. 
