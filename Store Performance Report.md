@@ -2,7 +2,6 @@
 
 # <p align= 'center'> Store Performance Report
 
-<br>
 
 ## <p align= 'center'> Client Background
 
