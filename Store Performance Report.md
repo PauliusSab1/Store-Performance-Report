@@ -64,7 +64,12 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
+<br>
+
+
 ## <p align= 'center'> Insights Deep-Dive
+
+<br>
 
 <br>
 
