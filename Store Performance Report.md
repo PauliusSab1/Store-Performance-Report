@@ -53,6 +53,8 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 <br>
 
+<br>
+
 ## <p align= 'center'> Dataset Structure and ERD (Entity relationship diagram)
 
 The database structure as seen below consists of four tables: orders, order_status, location and customers with a total row count of 5901 records. 
