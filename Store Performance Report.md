@@ -7,11 +7,11 @@
 
 <br>
 
-OfficeSupplies is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic.
+**OfficeSupplies** is a US-based company that sells popular consumer office supplies and electronics to US clientele. Established in 2019, the company has grown and expanded in the last few years. It has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by COVID-19 pandemic.
 
-OfficeSupplies book of business is approaching **800** unique customers and possesses over 5900 transactions, generating sales revenue exceeding $1.6 million. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 vs 2020.  
+**OfficeSupplies** book of business is approaching **800** unique customers and possesses over **5900** transactions, generating sales revenue exceeding **$1.6 million**. The available data spans various dimensions and metrics, including sales, products, sales by regions, and company’s profit trend in year 2019 and 2020.  
 
-Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance store’s commercial performance. The key insights and recommendations focus on the following areas:
+Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate OfficeSupplies store’s performance over the past several years (2019-2020). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance **OfficeSupplies** commercial performance. The key insights and recommendations focus on the following areas:
 
 <br>
 
