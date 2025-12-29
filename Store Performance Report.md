@@ -93,7 +93,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 ### <p align= 'center'> Average Order Value (AOV) 
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 
 <br>
@@ -106,7 +106,7 @@ further.
 
 <br>
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9fcfe74b-1280-4cf3-a41e-fcc033fb5181" />
 
 <br>
 
@@ -123,7 +123,7 @@ further.
 
 <br>
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/1680b516-2b32-40a5-83d9-8bebe17d3364" />
 
 <br>
 
@@ -141,24 +141,26 @@ o	Accessories (+25.3K total), Phones (+22.3K total) and Paper (+21K total) also 
 o	The least profitable item – Tables. It generated a loss of -11K over two-years period and this item should be monitored closely. Company might want to replace tables with other items or remove them from the market to avoid future loss. 
 o	Other items that generate loss are supplies (-1.6K) and bookcases (-343).  
 
+<br>
 
+## <p align= 'center'> Product Returns
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/17b91308-e848-438b-8412-210f4a48f4b6" />
 
 <br>
  
-Returns by each Sub-Category
-o	Binders (46), Paper (35) and Furnishings (32) are the items that customers returned the most. These items require more attention because it might be an indicator of poor quality/unreliable products and an urgent need for quality control. 
-o	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indicating a high quality of products and high customer satisfaction with an item. 
-
+**Returns by each Sub-Category**
+-	Binders (46), Paper (35) and Furnishings (32) are the items that customers returned the most. These items require more attention because it might be an indicator of poor quality/unreliable products and an urgent need for quality control. 
+-	Copiers (2), Machines (3) and Supplies (5) were the least returned items, indicating a high quality of products and high customer satisfaction with an item. 
 
 <br>
+
 
 ## <p align= 'center'> Regional Results
 
  <br>
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
 
 <br>
 
@@ -166,7 +168,7 @@ o	In 2019, West region generated the most sales revenue (185K), while South regi
 o	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
 o	 All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
 
- <img width="811" height="802" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
+ <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
 
 <br>
 
@@ -184,16 +186,16 @@ Based on the uncovered insights, here are actionable items that OfficeSupplies c
 
 <br>
 
-<p align= 'center'> Sales
+<p align= 'center'> **Sales**
 - Remedy sales lows due to seasonal fluctuations in Q2 2020 by increasing marketing campaigns during these low – sales periods. 
 -	In Q2 2020 Sales declined by -27.3% compared to Q1.
--	While Average Sales Growth for each quarter is +15.1%
+-	While Average Sales Growth for each quarter was +15.1%
 - Company should prioritize maintaining AOV above the average during all year by setting a free shipping threshold by encouraging larger shopping carts, creating loyalty programs and implementing customer reviews.
 o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 
 <br>
 
-<p align= 'center'> Products
+<p align= 'center'> **Products**
 - Optimize inventory for high – performing products year – round to increase yearly profit margins
 -	Copiers are the strongest items in terms of profit, reaching +42.7K over two years.
 -	Accessories, Phones and Paper also generated high profit from sales with +68.6K combined profit over two years. 
@@ -201,7 +203,9 @@ o	In 2020 April, AOV decreased to 222, which is 14.6% below the average.
 -	Tables and Supplies together generated 156K in Sales Revenue over two years but profit-wise, resulted in a loss of 12.6K.
 - Develop a quality assurance and quality control plan for the most returned items. 
 -	Binders (46), Paper (35), Furnishings (32) and Phones (29) were the most returned items resulting in 49% of total returns. 
-<br>
+
+ <br>
+
 <p align= 'center'> Regions 
 - Maximize market share in West region, as this region dominates sales across all OfficeSupplies products. 
 -	33% of all product sales happened in West region.
