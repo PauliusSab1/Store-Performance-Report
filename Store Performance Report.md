@@ -159,13 +159,19 @@ The database structure as seen below consists of four tables: orders, order_stat
 
  <br>
 
+ <br>
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bdd9cc0d-a411-47ad-bf45-f6c8e41618cd" />
+
+<br>
 
 <br>
 
 o	In 2019, West region generated the most sales revenue (185K), while South region generated the least sales revenue from all four regions with 89K.
 o	In 2020, sales distribution across all four regions remained similar. West region lead sales department with 337K sales revenue while South region generated the least sales revenue with 164K. 
 o	 All four regions improved their sales revenue significantly from 2019 to 2020.  South region increased their sales revenue by 84%, West region by 82%, Central region by 81% and East region by 64%.
+
+<br>
 
  <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/bd876a53-3be6-4c7b-aa79-cf4e5a403540" />
 
@@ -181,7 +187,7 @@ o	 All four regions improved their sales revenue significantly from 2019 to 2020
 
 <br>
 
-**Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis.**
+**Based on the uncovered insights, here are actionable items that OfficeSupplies can take away from our analysis:**
 
 <br>
 
