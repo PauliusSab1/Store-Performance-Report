@@ -93,16 +93,16 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 ### <p align= 'center'> Average Order Value (AOV) and Order Count 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
+<br>
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6efa2eec-1631-4b72-abde-13a42fa5b7c5" />
 
 <br>
  
 **Sharp AOV Surge in 2020** 
--	2020 saw the highest AOV growth from $224 (Dec 2019) to $390 (Dec 2020) which is 74% increase. This aligns with pandemic – driven eCommerce boom. 
+-	2020 saw the highest AOV growth from **$224** (Dec 2019) to **$390** (Dec 2020) which is **74% increase**. This aligns with pandemic – driven eCommerce boom. 
 -	AOV growth indicates growing business and reflects higher customer satisfaction and loyalty. 
--	From March 2019 to September 2019 there was a constant decline in AOV (from $257 to $177). This decline might indicate a potential customer behavior shift or economic factors change and should be investigated 
-further. 
+-	From March 2019 to September 2019 there was a constant decline in AOV (**from $257 to $177**). This decline might indicate a potential customer behavior shift or economic factors change and should be investigated further. 
 
 <br>
 
@@ -117,7 +117,6 @@ further.
 -	High AOV can lead to high sales revenue even when number of orders is average (for example, August 2020). It indicates effective upselling and increased customer loyalty.  
 
  <br>
-
 
 ## <p align= 'center'> Product Performance
 
