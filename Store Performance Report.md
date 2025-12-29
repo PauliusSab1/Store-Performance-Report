@@ -24,7 +24,6 @@ Reporting to the Head of Operations, an in-depth analysis was conducted to evalu
 
 ## <p align= 'center'> Executive Summary
 
-<br>
 
 ### <p align= 'center'> Sales Revenue Analysis (2019-2020)
 
