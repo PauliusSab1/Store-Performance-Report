@@ -63,7 +63,7 @@ The database structure as seen below consists of four tables: orders, order_stat
 
 <br>
 
-Project Dataset [Click Here](https://github.com/PauliusSab1/Store-Performance-Report/blob/main/Office_Supplies_Store_Dataset.xlsx)
+Project Dataset: [Download Here](https://github.com/PauliusSab1/Store-Performance-Report/blob/main/Office_Supplies_Store_Dataset.xlsx)
 
 <br>
 
